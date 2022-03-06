@@ -1,7 +1,7 @@
 import { render, screen } from '@/test/test-utils';
 import { MockedProvider } from '@apollo/client/testing';
 import { Home, GET_ALL_STARSHIPS_QUERY } from './home';
-import { AllStarships } from './home.types';
+import { AllStarships } from './home.type';
 
 const mockAllStarShips: AllStarships = {
   allStarships: {
