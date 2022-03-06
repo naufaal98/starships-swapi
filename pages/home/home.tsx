@@ -7,7 +7,6 @@ import { ClientOnly } from '@/components/ClientOnly';
 import { Spinner } from '@/components/Spinner';
 import { AllStarships } from './home.type';
 import {
-  HomeStyle,
   SpinnerWrapper,
   StarshipCrew,
   StarshipList,
@@ -45,7 +44,7 @@ export const Home = () => {
   }
 
   return (
-    <HomeStyle>
+    <div>
       <Head>
         <title>Starships</title>
       </Head>
@@ -60,7 +59,7 @@ export const Home = () => {
           </StarshipListItem>
         ))}
       </StarshipList>
-    </HomeStyle>
+    </div>
   );
 };
 

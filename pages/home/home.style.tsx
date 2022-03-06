@@ -1,7 +1,5 @@
 import styled from 'styled-components';
 
-export const HomeStyle = styled.div``;
-
 export const SpinnerWrapper = styled.div`
   display: flex;
   justify-content: center;
