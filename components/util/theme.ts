@@ -6,7 +6,7 @@ export const defaultTheme: DefaultTheme = {
   colors: {
     primary: '#FFE81F',
     text: '#fff',
-    textLight: '#4f5969',
+    textLight: '#9d9d9d',
     heading: '#1a202c',
     headingBlack: '#000',
     accent: '#d1dce5',
@@ -15,7 +15,7 @@ export const defaultTheme: DefaultTheme = {
     bg: '#232323',
   },
   fontSize: {
-    sizeRoot: '16px',
+    sizeRoot: '14px',
     size0: '0.833rem',
     size1: '1rem',
     size2: '1.2rem',
