@@ -5,7 +5,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { ClientOnly } from '@/components/ClientOnly';
 import { Spinner } from '@/components/Spinner';
-import { AllStarships } from './home.types';
+import { AllStarships } from './home.type';
 import {
   HomeStyle,
   SpinnerWrapper,
