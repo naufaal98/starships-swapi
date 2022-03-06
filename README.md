@@ -1,8 +1,8 @@
 # Starships
 
-> Demo: [Starships](starships-swapi.vercel.app)
+> Demo: [Starships](https://starships-swapi.vercel.app)
 
-A simple app built with Next and GraphQL using [swapi-graphql.netlify.app](https:swapi-graphql.netlify.app) API.
+A simple app built with Next and GraphQL using [swapi-graphql.netlify.app](https://swapi-graphql.netlify.app) API.
 
 ## Tech Stack (Essentially)
 
